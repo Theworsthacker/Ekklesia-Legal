@@ -1,5 +1,8 @@
 # Ekklesia Legal
 
+## Support
+[View Support](SUPPORT.md)
+
 ## Privacy Policy
 [View Privacy Policy](PRIVACY_POLICY.md)
 
