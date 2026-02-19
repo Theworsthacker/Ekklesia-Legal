@@ -1,66 +1,75 @@
-Ekklesia Support
+Support
+Last Updated: February 19, 2026
 
-Last Updated: February 2026
+Welcome to Ekklesia ("we", "our", or "us").
 
-Thank you for using Ekklesia. We are committed to providing a safe, respectful, and reliable experience for our community. If you need assistance, please review the information below.
+This Support page explains how users may obtain assistance regarding the Ekklesia mobile application (the "App").
 
-Contact Support
+If you experience technical issues, account concerns, or have general questions, please review the information below.
 
-If you need help with the Ekklesia app, have questions, or would like to report an issue, please contact us at:
+Contacting Support
 
-Email: EkklesiaApp@outlook.com
+If you need assistance, you may contact us at:
+
+EkklesiaApp@outlook.com
 
 We aim to respond within 24–48 business hours.
 
 When contacting support, please include:
 
 The email associated with your account
-
-A clear description of the issue
-
+A detailed description of the issue
 Screenshots (if applicable)
+Your device model and iOS version (for technical issues)
 
-Your device model and iOS version (if reporting a technical issue)
+Technical Issues
 
-Common Support Topics
+If the App crashes, fails to load, or does not function properly, please provide detailed information about the problem so we can investigate and resolve the issue.
 
-Account registration or login issues
+We may request additional information to assist in troubleshooting.
 
+Account Assistance
+
+Support is available for:
+
+Login or registration issues
 Password reset assistance
-
-Subscription or billing questions
-
+Subscription questions
 Reporting inappropriate content or users
-
 Event posting issues
 
-Technical bugs, crashes, or performance concerns
+Users are responsible for maintaining accurate account information.
 
 Reporting Safety Concerns
 
-If you believe content violates our Terms of Service or presents a safety concern, please email EkklesiaApp@outlook.com
- with detailed information and any relevant screenshots.
+If you believe content violates our Terms of Service or poses a safety concern, please contact us immediately at:
 
-User safety and community integrity are priorities for Ekklesia.
+EkklesiaApp@outlook.com
+
+We reserve the right to review, remove, or restrict content that violates our policies.
 
 Subscription & Billing
 
-All subscriptions are processed and managed through the Apple App Store.
+All subscriptions and payments are processed through Apple.
 
-For billing issues, refund requests, or payment disputes, please contact Apple Support directly through your Apple ID account.
+For billing issues, refund requests, or subscription cancellations, please manage your subscription directly through your Apple account settings.
+
+We do not directly process or store payment information.
 
 Account Deletion
 
 How do I delete my account?
 
-Go to Profile → Settings → Privacy & Security, then scroll to the Delete Account option.
+Go to Profile → Settings → Privacy & Security and scroll to the Delete Account option.
 
-You can also email us at EkklesiaApp@outlook.com
+You may also email EkklesiaApp@outlook.com
  to request account deletion.
 
 Account deletion requests are processed in accordance with our Privacy Policy.
 
 Legal Policies
+
+For more information regarding your rights and obligations, please review:
 
 Privacy Policy
 https://theworsthacker.github.io/Ekklesia-Legal/PRIVACY_POLICY.html
