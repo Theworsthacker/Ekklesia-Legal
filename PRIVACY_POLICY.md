@@ -98,7 +98,7 @@ We retain personal information only as long as necessary to:
 
 Users may request deletion of their account by contacting:
 
-Contact@EkklesiaApp.com
+Support@EkklesiaApp.com
 
 Upon request, we will delete personal data from active systems, though some information may remain in backup systems for a limited period.
 
@@ -126,4 +126,4 @@ Continued use of the App after updates constitutes acceptance of the revised pol
 
 If you have questions regarding this Privacy Policy, please contact:
 
-Contact@EkklesiaApp.com
+Support@EkklesiaApp.com
