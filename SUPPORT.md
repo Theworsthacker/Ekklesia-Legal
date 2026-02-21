@@ -14,7 +14,7 @@ By using the App, you acknowledge that support services are provided as describe
 
 If you need assistance, you may contact us at:
 
-EkklesiaApp@outlook.com
+Contact@EklessiaApp.com
 
 We aim to respond within 24–48 business hours.
 
@@ -53,7 +53,7 @@ Users are responsible for maintaining accurate account information.
 
 If you believe content violates our Terms of Service or poses a safety concern, please contact us at:
 
-EkklesiaApp@outlook.com
+Contact@EklessiaApp.com
 
 We reserve the right to review, remove, or restrict content that violates our policies.
 
