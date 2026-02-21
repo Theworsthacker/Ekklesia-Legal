@@ -105,7 +105,7 @@ We may suspend or terminate access to the App at any time for:
 
 Users may request account deletion by contacting:
 
-Contact@EkklesiaApp.com
+Support@EkklesiaApp.com
 
 ---
 
@@ -143,4 +143,4 @@ Continued use of the App constitutes acceptance of revised Terms.
 
 For questions regarding these Terms, contact:
 
-Contact@EkklesiaApp.com
+Support@EkklesiaApp.com
